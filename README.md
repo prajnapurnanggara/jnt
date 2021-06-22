@@ -3,8 +3,8 @@ Project UAS BDL - JNT
 
 1. Download XAMPP https://www.apachefriends.org/index.html
 2. Instal XAMPP
-3. Lalu eksrak jnt-main.rar
-4. ekstrak jnt.rar ke C:\xampp\htdocs
+3. download zip di github https://github.com/prajnapurnanggara/jnt/
+4. eksrak jnt-main.rar, lalu ekstrak jnt.rar ke C:\xampp\htdocs
 5. buka XAMPP lalu start pada apache dan sql
 6. buka browser klik link, http://localhost/phpmyadmin/
 7. buat databse baru dengan nama jnt
@@ -22,4 +22,3 @@ Project UAS BDL - JNT
 19. login sebagai pelanggan http://localhost/jnt/projects/pelanggan/login.php
 20. id pelanggan : PL001
 21. password : 123
-22. 
