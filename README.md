@@ -31,3 +31,5 @@ NOTE :
 4. Query untuk mengecek paket yang berada di dalam truk kurir yang sedang kecelakaan bisa melalui halaman data paket lalu masukan kode pengiriman di bagian search.
 (kode pengiriman dari kombinasi no kendaraan si kurir dan tanggal saat paket tersebut dikirim)
 5. Billing bisa di cek dari halaman pelanggan lalu notaku, billing sesuai dengan id yang digunakan saat login menjadi pelanggan.
+6. Jumlah data yang paketnya tidak sesaui estimasi bisa dilihat di dashboard
+Dashboard sudah dinamis
