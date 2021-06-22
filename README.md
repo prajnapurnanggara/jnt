@@ -22,3 +22,12 @@ Project UAS BDL - JNT
 19. login sebagai pelanggan http://localhost/jnt/projects/pelanggan/login.php
 20. id pelanggan : PL001
 21. password : 123
+
+
+NOTE :
+Query user dengan pengiriman terbanyak bisa di cek lewat dashboard di admin lalu klik 'leaderboard jumlah transaksi'.
+Query user mengeluarkan uang terbanyak bisa di cek lewat dashboard di admin lalu klik 'total pendapatan'.
+Query daerah terbanyak melakukan pengiriman bisa di cek lewat dashboard di admin lalu klik 'leaderboard lokasi pengiriman'.
+Query untuk mengecek paket yang berada di dalam truk kurir yang sedang kecelakaan bisa melalui halaman data paket lalu masukan kode pengiriman di bagian search.
+(kode pengiriman dari kombinasi no kendaraan si kurir dan tanggal saat paket tersebut dikirim)
+Billing bisa di cek dari halaman pelanggan lalu notaku, billing sesuai dengan id yang digunakan saat login menjadi pelanggan.
